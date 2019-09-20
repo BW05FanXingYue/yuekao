@@ -13,7 +13,7 @@ import com.fanxingyue.entity.VoteStatic;
 
 /**
  * 
- * @author Zhang旭涛
+ * @author
  *
  */
 @Mapper

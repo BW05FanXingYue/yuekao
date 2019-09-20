@@ -7,7 +7,7 @@ import com.fanxingyue.entity.VoteStatic;
 
 /**
  * 
- * @author Zhang旭涛
+ * @author
  *
  */
 public interface Article4VoteService {

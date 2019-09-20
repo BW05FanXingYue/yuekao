@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 /**
  * 
- * @author Zhang旭涛
+ * @author 
  *
  */
 public class Category implements Serializable{

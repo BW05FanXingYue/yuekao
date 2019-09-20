@@ -18,7 +18,7 @@ import com.github.pagehelper.PageInfo;
 
 /**
  * 
- * @author Administrator
+ * @author
  *
  */
 @RequestMapping("user")

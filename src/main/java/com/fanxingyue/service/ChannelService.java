@@ -6,7 +6,7 @@ import com.fanxingyue.entity.Channel;
 
 /**
  * 
- * @author Zhang旭涛
+ * @author
  *
  */
 public interface ChannelService {

@@ -2,7 +2,7 @@ package com.fanxingyue.entity;
 
 /**
  * 用于查询
- * @author Zhang旭涛
+ * @author 
  *
  */
 public class UserVo  extends User{

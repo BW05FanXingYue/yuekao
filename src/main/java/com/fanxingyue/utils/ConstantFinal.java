@@ -2,7 +2,7 @@ package com.fanxingyue.utils;
 
 /**
  * 
- * @author Zhang旭涛
+ * @author 
  *  常量类
  */
 public class ConstantFinal {

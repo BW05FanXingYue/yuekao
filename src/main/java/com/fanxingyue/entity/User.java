@@ -5,7 +5,7 @@ import java.util.Date;
 
 /**
  * 用户的实体
- * @author Zhang旭涛
+ * @author
  *
  */
 public class User implements Serializable {

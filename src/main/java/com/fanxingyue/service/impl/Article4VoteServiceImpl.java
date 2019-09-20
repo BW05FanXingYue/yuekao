@@ -12,7 +12,7 @@ import com.fanxingyue.service.Article4VoteService;
 
 /**
  * 
- * @author Zhang旭涛
+ * @author 
  *
  */
 @Service
